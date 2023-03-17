@@ -1,0 +1,29 @@
+pincodeCreateSuggestion: [
+  "<white>Need your banking details, let's <green><bold>start</bold></green> with your <green><bold>pincode</bold></green>!</white>",
+]
+altPincodeCreateSuggestion: "<gray>Create your own 4-digit pincode!</gray>"
+
+pincodeInputSuggestion: [
+  "<white>Villagers are upset, <green><bold>write</bold></green> your <green><bold>pincode</bold></green> and help them!</white>",
+]
+altPincodeInputSuggestion: "<gray>Enter your 4-digit pincode!</gray>"
+
+pincodeCreateConfirmation: [
+  "<white>I didn't doubt you! Your pincode is <gold><pincode></gold>!</white>",
+]
+altPincodeCreateConfirmation: "<gray>Your pincode was recorded — <pincode></gray>"
+
+invalidPincode: [
+  "<white>Are you serious? Your <red><bold>pincode</bold></red>, your <red><bold>4 digits</bold></red>!</white>"
+]
+altInvalidPincode: "<gray>Your pincode is incorrect, try entering 4 digits!</gray>"
+
+pincodeInputConfirmation: [
+  "<white>Welcome to <red><bold>the bloody arena of death</bold></red>!</white>",
+]
+altPincodeInputConfirmation: "<gray>All good, have a nice game!</gray>"
+
+wrongPincode: [
+  "<white>Nah, that's <red><bold>wrong</bold></red>, come on, <red><bold>remember</bold></red> your <red><bold>pincode</bold></red>!</white>"
+]
+altWrongPincode: "<gray>Your pincode doesn't right, try another one!</gray>"
